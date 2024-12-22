@@ -14,15 +14,15 @@ API_HASH = getenv("ba25181c01b50d945748801b6c8b6ecc")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("7369438407:AAErVQPHDTePz6LGkwY1JXlduWhTPB50jtE")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Rishu1286")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Stylish_Star2")
 
 OWNER2_ID = int(getenv("OWNER2_ID", 6717382350))
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "RishuXmusicXbot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "AnkitaMusicStream_Bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "SAPNA")
+BOT_NAME = getenv("BOT_NAME" , "Ankita")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "KHWAAISH_HOON")
+ASSUSERNAME = getenv("ASSUSERNAME" , "AnkitaMusicStream_Bot")
 # ---------------------------------------------------------
 
 
